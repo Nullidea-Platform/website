@@ -1,0 +1,32 @@
+.transparentBG {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.navBorder {
+    border-radius: 0 0 10px 10px;
+}
+
+.navbar-nav {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.systemWideFont {
+    color: rgba(253, 207, 60, 1);
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+#tagLine {
+    font-family: BeautyMountains, serif;
+
+}
+
+body {
+    background: url("../images/Artboard 1@1x.png") no-repeat fixed center;
+    background-size: cover;
+}
+
+
+@font-face {
+    font-family: "BeautyMountains";
+    src: url("../fonts/BeautyMountains.ttf");
+}
